@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Danny Bentley's Unity3D
 
 You can use the [editor on GitHub](https://github.com/dannysbentley/UnityClass/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
